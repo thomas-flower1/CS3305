@@ -8,8 +8,6 @@ Code to be attached to the collision area of an NPC
 
 Args: the filename of the message that shall be displayed when collision occurs
 
-
-
 */
 
 public class NPCMessage : MonoBehaviour
